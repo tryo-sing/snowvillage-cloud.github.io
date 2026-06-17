@@ -1,0 +1,160 @@
+/* =========================================
+   Neighbors Page Styles
+   ========================================= */
+
+/* --- Neighbors FAQ accordion --- */
+.neighbors-faq {
+  margin-bottom: 40px;
+}
+.faq-item {
+  background: var(--card-bg);
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  margin-bottom: 12px;
+  overflow: hidden;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+.faq-item[open] {
+  border-color: var(--primary);
+  box-shadow: 0 6px 18px rgba(41, 181, 232, 0.08);
+}
+.faq-item > summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 18px 22px;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  font-weight: 700;
+  color: var(--secondary);
+  line-height: 1.6;
+  position: relative;
+}
+.faq-item > summary::-webkit-details-marker {
+  display: none;
+}
+.faq-item > summary::before {
+  content: "Q";
+  flex: 0 0 auto;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--primary);
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 800;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1px;
+}
+.faq-item > summary::after {
+  content: "+";
+  margin-left: auto;
+  color: var(--primary);
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1;
+  transition: transform 0.25s ease;
+  flex: 0 0 auto;
+}
+.faq-item[open] > summary::after {
+  transform: rotate(45deg);
+}
+.faq-answer {
+  padding: 0 22px 20px 62px;
+  position: relative;
+}
+.faq-answer::before {
+  content: "A";
+  position: absolute;
+  left: 22px;
+  top: 0;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--acc-blue);
+  color: var(--secondary);
+  font-size: 0.85rem;
+  font-weight: 800;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.faq-answer p {
+  color: var(--text);
+  line-height: 1.85;
+  margin: 0 0 12px;
+}
+.faq-answer p:last-child {
+  margin-bottom: 0;
+}
+
+/* --- Neighbors List Grid --- */
+.neighbors-grid {
+  display: grid;
+  /* スマホ向け: 横4列 */
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin-bottom: 60px;
+}
+
+.neighbor-card {
+  background: var(--card-bg);
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 12px 6px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.02);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.neighbor-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(41, 181, 232, 0.1);
+  border-color: var(--acc-blue);
+}
+.neighbor-photo {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 8px;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.neighbor-name {
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--secondary);
+  line-height: 1.2;
+  margin-bottom: 4px;
+  word-break: break-word;
+}
+.neighbor-affiliation {
+  font-size: 0.55rem;
+  color: var(--text-light);
+  line-height: 1.2;
+  word-break: break-word;
+}
+
+/* PC・タブレット向け: 横6列 */
+@media (min-width: 768px) {
+  .neighbors-grid {
+    grid-template-columns: repeat(6, 1fr);
+    gap: 20px;
+  }
+  .neighbor-card {
+    padding: 20px 10px;
+  }
+  .neighbor-photo {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 12px;
+  }
+  .neighbor-name {
+    font-size: 0.8rem;
+  }
+  .neighbor-affiliation {
+    font-size: 0.7rem;
+  }
+}
