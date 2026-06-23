@@ -26,6 +26,11 @@
   xUrl: "https://x.com/kayamamoto_"
   linkedInUrl: "https://www.linkedin.com/in/katsuaki-yamamoto-2b3692329"
 
+- name: ぬん
+  affiliation: --
+  photo: ../../images/neighbors/guen.png
+  xUrl: "https://x.com/guen"
+
 - name: 萩野谷 旭洋
   affiliation: インフォテック株式会社
   photo: ../../images/neighbors/haginoya_teruhiro.png
@@ -41,8 +46,6 @@
   photo: ../../images/neighbors/
   xUrl: "https://x.com/elc_small"
   linkedInUrl: "https://www.linkedin.com/in/yo-morikawa-68787234a"
-
-
 
 
 #  「Linkdin」のアカウントのみあるケース
