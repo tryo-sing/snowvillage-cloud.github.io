@@ -26,7 +26,11 @@
   xUrl: "https://x.com/kayamamoto_"
   linkedInUrl: "https://www.linkedin.com/in/katsuaki-yamamoto-2b3692329"
 
-
+- name: 森田 将之
+  affiliation: 株式会社ＪＥＲＡ
+  photo: ../../images/neighbors/morita_masayuki.png
+  xUrl: "https://x.com/mark_xxxx13"
+  linkedInUrl: "https://www.linkedin.com/in/masayuki-morita-710807215"
 
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
