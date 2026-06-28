@@ -71,6 +71,12 @@
   xUrl : "https://x.com/baihebu"
   linkedInUrl : "https://www.linkedin.com/in/atsushi-kamiya-93584571"
 
+- name: アスタ
+  affiliation: --
+  photo: ../../images/neighbors/tsunoda_katsuma.png
+  xUrl : "https://x.com/ASTOUND_"
+  linkedInUrl : "https://www.linkedin.com/in/katsunoda-0339313a8"
+
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
 #   affiliation: Data Engineering Inc.
