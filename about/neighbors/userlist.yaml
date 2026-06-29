@@ -71,6 +71,12 @@
   xUrl : "https://x.com/baihebu"
   linkedInUrl : "https://www.linkedin.com/in/atsushi-kamiya-93584571"
 
+- name: ロー / LowSE01
+  affiliation: ちゅらデータ株式会社
+  photo: ../../images/neighbors/lowse01.jpg
+  xUrl: "https://x.com/VizFantasista"
+  linkedInUrl: "https://www.linkedin.com/in/lowse01/"
+
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
 #   affiliation: Data Engineering Inc.
