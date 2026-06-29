@@ -71,6 +71,12 @@
   xUrl : "https://x.com/baihebu"
   linkedInUrl : "https://www.linkedin.com/in/atsushi-kamiya-93584571"
 
+- name: 伊佐 薫明
+  affiliation : --
+  photo : ../../images/neighbors/nobu_13.jpg
+  xUrl : "https://x.com/Nobu13tech"
+  linkedInUrl : "https://www.linkedin.com/in/no-isa/"
+
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
 #   affiliation: Data Engineering Inc.
