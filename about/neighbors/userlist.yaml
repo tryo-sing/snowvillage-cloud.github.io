@@ -65,6 +65,36 @@
   xUrl: "https://x.com/tomowk1"
   linkedInUrl: "https://www.linkedin.com/in/tomo-wakamatsu/"
 
+- name: 森田 将之
+  affiliation: 株式会社ＪＥＲＡ
+  photo: ../../images/neighbors/morita_masayuki.png
+  xUrl: "https://x.com/mark_xxxx13"
+  linkedInUrl: "https://www.linkedin.com/in/masayuki-morita-710807215"
+
+- name: 神谷 篤司
+  affiliation : セキュリティ系の会社
+  photo : ../../images/neighbors/atsushi_kamiya.jpg
+  xUrl : "https://x.com/baihebu"
+  linkedInUrl : "https://www.linkedin.com/in/atsushi-kamiya-93584571"
+
+- name: ロー / LowSE01
+  affiliation: ちゅらデータ株式会社
+  photo: ../../images/neighbors/lowse01.jpg
+  xUrl: "https://x.com/VizFantasista"
+  linkedInUrl: "https://www.linkedin.com/in/lowse01/"
+
+- name: 伊佐 薫明
+  affiliation : --
+  photo : ../../images/neighbors/nobu_13.jpg
+  xUrl : "https://x.com/Nobu13tech"
+  linkedInUrl : "https://www.linkedin.com/in/no-isa/"
+
+ - name: 原田 雄斗
+   affiliation: クオリサイトテクノロジーズ
+   photo: ../../images/neighbors/harada_yuto.png
+   xUrl: "https://x.com/HYuto30325"
+
+
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
 #   affiliation: Data Engineering Inc.
