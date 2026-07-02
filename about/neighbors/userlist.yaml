@@ -100,6 +100,11 @@
    photo: ../../images/neighbors/harada_yuto.png
    xUrl: "https://x.com/HYuto30325"
 
+- name: Ryo Toshiki
+  affiliation : --
+  photo : ../../images/neighbors/t_ryo.jpg
+  xUrl : "https://x.com/tryo_sing"
+
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
 #   affiliation: Data Engineering Inc.
