@@ -59,6 +59,12 @@
   xUrl: "https://x.com/elc_small"
   linkedInUrl: "https://www.linkedin.com/in/yo-morikawa-68787234a"
 
+- name: tomo Wakamatsu
+  affiliation: Snowflake合同会社
+  photo: ../../images/neighbors/tomo.png
+  xUrl: "https://x.com/tomowk1"
+  linkedInUrl: "https://www.linkedin.com/in/tomo-wakamatsu/"
+
 - name: 森田 将之
   affiliation: 株式会社ＪＥＲＡ
   photo: ../../images/neighbors/morita_masayuki.png
@@ -76,6 +82,23 @@
   photo: ../../images/neighbors/tsunoda_katsuma.png
   xUrl : "https://x.com/ASTOUND_"
   linkedInUrl : "https://www.linkedin.com/in/katsunoda-0339313a8"
+
+- name: ロー / LowSE01
+  affiliation: ちゅらデータ株式会社
+  photo: ../../images/neighbors/lowse01.jpg
+  xUrl: "https://x.com/VizFantasista"
+  linkedInUrl: "https://www.linkedin.com/in/lowse01/"
+
+- name: 伊佐 薫明
+  affiliation : --
+  photo : ../../images/neighbors/nobu_13.jpg
+  xUrl : "https://x.com/Nobu13tech"
+  linkedInUrl : "https://www.linkedin.com/in/no-isa/"
+
+ - name: 原田 雄斗
+   affiliation: クオリサイトテクノロジーズ
+   photo: ../../images/neighbors/harada_yuto.png
+   xUrl: "https://x.com/HYuto30325"
 
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
