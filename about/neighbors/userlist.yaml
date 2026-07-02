@@ -77,6 +77,19 @@
   xUrl: "https://x.com/VizFantasista"
   linkedInUrl: "https://www.linkedin.com/in/lowse01/"
 
+- name: 伊佐 薫明
+  affiliation : --
+  photo : ../../images/neighbors/nobu_13.jpg
+  xUrl : "https://x.com/Nobu13tech"
+  linkedInUrl : "https://www.linkedin.com/in/no-isa/"
+
+ - name: 原田 雄斗
+   affiliation: クオリサイトテクノロジーズ
+   photo: ../../images/neighbors/harada_yuto.png
+   xUrl: "https://x.com/HYuto30325"
+
+
+
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
 #   affiliation: Data Engineering Inc.
