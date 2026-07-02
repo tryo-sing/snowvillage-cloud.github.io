@@ -59,6 +59,12 @@
   xUrl: "https://x.com/elc_small"
   linkedInUrl: "https://www.linkedin.com/in/yo-morikawa-68787234a"
 
+- name: tomo Wakamatsu
+  affiliation: Snowflake合同会社
+  photo: ../../images/neighbors/tomo.png
+  xUrl: "https://x.com/tomowk1"
+  linkedInUrl: "https://www.linkedin.com/in/tomo-wakamatsu/"
+
 - name: 森田 将之
   affiliation: 株式会社ＪＥＲＡ
   photo: ../../images/neighbors/morita_masayuki.png
@@ -87,7 +93,6 @@
    affiliation: クオリサイトテクノロジーズ
    photo: ../../images/neighbors/harada_yuto.png
    xUrl: "https://x.com/HYuto30325"
-
 
 
 #  「Linkdin」のアカウントのみあるケース
